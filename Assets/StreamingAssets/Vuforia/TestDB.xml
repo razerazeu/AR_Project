@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="rock7" size="5.000000 6.666667" />
+    <ImageTarget name="rock6" size="5.000000 2.807692" />
+    <ImageTarget name="rocks5" size="5.000000 3.333333" />
+    <ImageTarget name="rocks4" size="5.000000 3.750000" />
+    <ImageTarget name="rocks3" size="5.000000 3.333333" />
+    <ImageTarget name="rocks2" size="5.000000 3.744726" />
+    <ImageTarget name="rocks" size="5.000000 3.333333" />
+  </Tracking>
+</QCARConfig>
