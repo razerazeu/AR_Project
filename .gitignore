@@ -79,3 +79,9 @@ Desktop.ini
 # Optional: Uncomment if using Unity Collaborate or Plastic SCM
 # /[Aa]ssets/[Ss]treamingAssets/
 
+
+# Android build files
+.utmp/
+.gradle/
+
+Packages/com.ptc.vuforia.engine-11.2.4.tgz
